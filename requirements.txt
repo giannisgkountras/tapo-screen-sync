@@ -1,0 +1,9 @@
+pyautogui
+tapo
+opencv-python
+numpy
+
+
+
+(sudo apt-get install python3-tk python3-dev)
+(sudo apt install gnome-screenshot)
